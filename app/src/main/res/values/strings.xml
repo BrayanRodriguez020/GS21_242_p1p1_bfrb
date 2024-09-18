@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GS21_242_p1p1_bfrb</string>
+
+    <string name="titulo">Suma de dos numeros</string>
+    <string name="lbln1">Ingresa el primer numero:</string>
+    <string name="lbln2">Ingresa el segundo numero:</string>
+    <string name="hitn1"></string>
+    <string name="hitn2"></string>
+    <string name="btnsuma">Calcula resultado</string>
+
+</resources>
